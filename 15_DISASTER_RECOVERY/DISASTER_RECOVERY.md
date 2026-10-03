@@ -1,0 +1,25 @@
+# Disaster Recovery — LLAMA_CPP
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** LLAMA_CPP | Category: CHIP_QUANTIZATION
+**Upstream:** https://github.com/ggerganov/llama.cpp (MIT)
+
+## Overview
+
+This document covers disaster recovery for the Anticloud integration of LLAMA_CPP.
+
+CPU-optimized quantized LLM inference
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into LLAMA_CPP to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
